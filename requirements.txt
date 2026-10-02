@@ -1,1 +1,4 @@
 datasets==4.8.5
+spacy==3.8.16
+ipykernel==7.4.0
+scikit-learn==1.9.1
